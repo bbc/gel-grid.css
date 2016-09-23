@@ -1,0 +1,21 @@
+{
+  "name": "gel-grid.css",
+  "version": "1.0.0",
+  "description": "A flexible code implementation of the GEL Grid",
+  "main": "gel-grid.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbc/gel-grid.css.git"
+  },
+  "keywords": [
+    "bbc",
+    "gel",
+    "grid"
+  ],
+  "author": "BBC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbc/gel-grid.css/issues"
+  },
+  "homepage": "https://github.com/bbc/gel-grid.css"
+}
