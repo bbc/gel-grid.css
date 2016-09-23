@@ -2,20 +2,22 @@
   "name": "gel-grid.css",
   "version": "1.0.0",
   "description": "Compiled versions of https://github.com/bbc/gel-grid",
-  "main": "gel-grid.css",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bbc/gel-grid.css.git"
-  },
+  "main": "grid.css",
   "keywords": [
     "bbc",
     "gel",
     "grid"
   ],
-  "author": "BBC",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bbc/gel-grid.css/issues"
-  },
   "homepage": "http://www.bbc.co.uk/gel",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dist",
+    "src"
+  ]
 }
