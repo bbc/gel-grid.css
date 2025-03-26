@@ -1,15 +1,5 @@
-# Gel Grid CSS
+# GEL Grid CSS
 
-Compiled versions of https://github.com/bbc/gel-grid
+The compiled versions of the files located here are out-of-date. Instead the recommendation would be to use [GEL Grid](https://github.com/bbc/gel-grid) directly.
 
-## Usage
-
-If you are using webpack you can do the following
-
-```js
-import 'gel-grid.css'
-```
-
-Or just copy the file directly.
-
-For more information go to [gel grid](https://github.com/bbc/gel-grid)
+Compiled versions are available in the `dist` directory: https://github.com/bbc/gel-grid/tree/main/dist.
